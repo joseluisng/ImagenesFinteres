@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ImagenesFinteres</string>
+    <string name="bottom_navigation_home">Inicio</string>
+    <string name="bottom_navigation_perfil">Perfil</string>
+    <string name="bottom_navigation_notifications">Notificaciones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_agregar_image">Agregar</string>
+    <string name="titulo_molde_image">Titulo</string>
+    <string name="fecha_creacion_molde_image">fecha de creación</string>
+    <string name="description_image_molde">Descripción</string>
+    <string name="titulo_detail">Titulo</string>
+    <string name="descripcion_detail">Descripción</string>
+    <string name="fechacreacion_detail">Fecha de creación</string>
+    <string name="borrar_detail">Borrar</string>
+    <string name="et_titulo_image">Titulo</string>
+    <string name="et_description_image">Descripción</string>
+    <string name="guardar_btn_image">Guardar</string>
+
+    <string name="descripción_usuario">Spider-Man (llamado Hombre Araña en muchas de las traducciones al español) es un superhéroe ficticio creado por los escritores y editores Stan Lee y Steve Ditko. Apareció por primera vez en el cómic de antología Amazing Fantasy # 15 (agosto de 1962) en la Edad de Plata de los cómics.</string>
+    <string name="no_recibir_notificacion">¿Quieres dejar de recibir notificaiones?</string>
+</resources>
